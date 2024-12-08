@@ -2,5 +2,3 @@ Hi
 This for GIT Edit and Delete lab practice
 
 Students3 Info
-
-Students 2 Info
