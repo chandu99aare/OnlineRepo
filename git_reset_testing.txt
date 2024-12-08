@@ -1,0 +1,2 @@
+Hi
+This is to test the git reset option of GIT!!!!!!!!!!!!!!
